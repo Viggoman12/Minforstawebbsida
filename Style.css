@@ -1,0 +1,27 @@
+/* Generell stil */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+/* Titelstil */
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* Paragrafstil */
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+    max-width: 600px;
+    text-align: center;
+}
